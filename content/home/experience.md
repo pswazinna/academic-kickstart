@@ -28,9 +28,9 @@ date_format = "January 2006"
   description = """
   Responsibilities included:
   
-  * Execution & Evaluation of Deep Learning experiments with Python, TensorFlow & Keras
-  * Implementation & Testing of hierarchical classifiers based on convolutional neural networks for Medical Image Classification
-  * Test of new bottleneck methods to reduce the amount of parameters needed in models
+  * Execution & evaluation of Deep Learning experiments with Python, TensorFlow & Keras
+  * Implementation & testing of hierarchical classifiers based on Convolutional Neural Networks for Medical Image Classification
+  * Test of new Bottleneck methods to reduce the amount of parameters needed in models
   * Evaluation of recently published research results in the area of Deep Anomaly Detection
   """
 
@@ -42,7 +42,7 @@ date_format = "January 2006"
   date_start = "2017-02-27"
   date_end = "2017-04-09"
   description = """
-  Development of ChatBot applications with
+  Development of ChatBot Applications with
 
   * IBM Bluemix
   * Microsoft Azure
