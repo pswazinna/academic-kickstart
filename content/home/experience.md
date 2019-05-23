@@ -19,6 +19,21 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PhD Candidate in Deep Multi Task Reinforcement Learning"
+  company = "Siemens & Technical University of Munich"
+  company_url = ""
+  location = "Munich"
+  date_start = "2019-04-15"
+  date_end = ""
+  description = """
+  My research interests include:
+  
+  * Multi Task Reinforcement Learning
+  * Intrinsically motivated agents
+  * Hierarchical Methods
+  """
+
+[[experience]]
   title = "Working Student"
   company = "Siemens - Learning Systems Group"
   company_url = ""

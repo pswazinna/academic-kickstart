@@ -57,7 +57,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "ismrm2019_poster.pdf"
 url_source = ""
 
 # Custom links (optional).

@@ -6,11 +6,11 @@ name = "Phillip Swazinna"
 superuser = true
 
 # Role/position
-role = "Machine Learning Enthusiast"
+role = "PhD Student in Multi Task Reinforcement Learning"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Technical University of Munich", url = "tum.de" } ]
+organizations = [ { name = "Siemens", url = "https://new.siemens.com/global/en.html"}, { name = "Technical University of Munich", url = "https://www.in.tum.de/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Machine Learning Enthusiast"
@@ -20,12 +20,14 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Deep Learning",
-  "Artificial Intelligence",
-  "Internet of Things"
+  "Multi Task Reinforcement Learning",
+  "Intrinsically motivated agents",
+  "Hierarchical Methods"
 ]
 
 # List qualifications (such as academic degrees)
+
+
 [[education.courses]]
   course = "M.Sc. Informatics - AI & Robotics"
   institution = "Technical University of Munich"
@@ -74,13 +76,19 @@ interests = [
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/phillip-swazinna-773228156/"
 
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.de/citations?user=eqDGnSkAAAAJ"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv_psw_web.pdf"
 
 +++
 
 Ever since I went to the University of Pennsylvania as an exchange student in 2015, I have been fascinated by artificial intelligence topics, specifically machine learning. Upon return, I wrote my Bachelor's Thesis about statistically modeling attention on scientific publications using models that are normally employed to model the spread of diseases. I further switched to the Technical University of Munich for my Master's Degree in order to be able to focus more on machine learning. I took numerous related courses and also wrote my Master's Thesis on the topic: Using Deep Convolutional Neural Networks, I was able to recognize various neurodegenerative diseases in MRI scans of patients. In Munich I was also a working student at the Siemens learning systems group, where I was involved in developing Deep Learning models for Medical Image Classification.
+Since April 2019, I am a PhD student in Multi Task Reinforcement Learning at the Technical University of Munich in cooperation with Siemens.
